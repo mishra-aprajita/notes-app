@@ -16,12 +16,19 @@
     "express-validator": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "n": "^11.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
   },
-  "keywords": ["notes", "rest-api", "mongodb", "express", "jwt"],
+  "keywords": [
+    "notes",
+    "rest-api",
+    "mongodb",
+    "express",
+    "jwt"
+  ],
   "author": "",
   "license": "ISC"
 }
